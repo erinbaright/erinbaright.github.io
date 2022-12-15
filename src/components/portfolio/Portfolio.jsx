@@ -3,9 +3,6 @@ import './portfolio.css'
 import IMG1 from '../../assets/breddit.png'
 import IMG2 from '../../assets/petlyfe.png'
 import IMG3 from '../../assets/guessthecity.png'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
   {
