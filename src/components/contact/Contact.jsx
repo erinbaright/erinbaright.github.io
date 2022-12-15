@@ -36,7 +36,7 @@ const Contact = () => {
             <a href="tel:+6469266842" target="_blank">Call me</a>
           </article>
         </div>
-        {/* END OF CONTACT OPTIONS */}
+    
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Full Name' required />
           <input type="email" name='email' placeholder='Email' required />
